@@ -1,6 +1,6 @@
-# antcmd
+# antcmd electron app
 
-> Business note
+Desktop application for antcmd
 
 #### Build Setup
 
@@ -9,17 +9,13 @@
 yarn install
 
 # serve app with hot reload
-yarn run dev
+yarn dev
 
-# build electron application for production
-yarn run build
+# build for production
+yarn build
 
-# yarn tests
-yarn test
-
-
-# lint all JS/Vue component files in `src/`
-yarn run lint
+# lint all js/vue files in `src/`
+yarn lint
 
 ```
 
