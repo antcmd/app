@@ -1,0 +1,37 @@
+@import 'themes.scss';
+
+*
+  font-family: system-ui, Inter
+
+body
+  background-color: var(--bg-color)
+
+body::-webkit-scrollbar
+  display: none
+
+.page
+  position: relative
+
+.editor
+  display: flex
+  justify-content: center
+
+.editor__content
+  margin-top: 64px
+  width: 665px
+  color: var(--text-color)
+
+.ProseMirror
+  outline: none !important
+
+
+
+
+// placeholder
+.editor *.is-empty
+  &:nth-child(1)::before, &:nth-child(2)::before
+    content: attr(data-empty-text)
+    float: left
+    color: #97a0bf
+    pointer-events: none
+    height: 0

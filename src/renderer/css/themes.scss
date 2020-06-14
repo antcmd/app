@@ -1,0 +1,70 @@
+:root {
+  --bg-color: #fff;
+  --text-color: #000;
+  --link-color: #0c77f8;
+  --placeholder-color: rgba(1, 23, 49, 0.36);
+}
+
+[theme='light'] {
+  --bg-color: #fff;
+  --text-color: #000;
+  --link-color: #0c77f8;
+  --placeholder-color: rgba(1, 23, 49, 0.36);
+}
+// --link-color: #0645ad;
+
+[theme='dark'] {
+  --bg-color: #000;
+  --text-color: #fff;
+  --link-color: #72ff9f;
+  --placeholder-color: #fff;
+}
+
+[theme='yellow'] {
+  --bg-color: #3a4843;
+  --text-color: #dde659;
+  --link-color: #e0caa0;
+  --placeholder-color: #dde659;
+}
+
+[theme='red'] {
+  --bg-color: #eadfd9;
+  --text-color: #db4040;
+  --link-color: #5f3f3f;
+  --placeholder-color: #db4040;
+}
+
+[theme='green'] {
+  --bg-color: #545456;
+  --text-color: #70fb70;
+  --link-color: #72ff9f;
+  --placeholder-color: #70fb70;
+}
+
+[theme='grey'] {
+  --bg-color: #312e2e;
+  --text-color: #93b3ce;
+  --link-color: #f56a5d;
+  --placeholder-color: #93b3ce;
+}
+
+[theme='blue'] {
+  --bg-color: #171616;
+  --text-color: #5050ff;
+  --link-color: #66738a;
+  --placeholder-color: #5050ff;
+}
+
+[theme='orange'] {
+  --bg-color: #ff8f17;
+  --text-color: #342a3c;
+  --link-color: #66738a;
+  --placeholder-color: #342a3c;
+}
+
+[theme='purple'] {
+  --bg-color: #673ab7;
+  --text-color: #ff00ea;
+  --link-color: #9cd5d8;
+  --placeholder-color: #ff00ea;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="234px" viewBox="0 0 229 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Group 96</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.6546 0 151.9576 0 225.8876 74.8578 151.9576 155.6584"></polygon>
+        <polygon id="path-3" points="0.0674 78.5479 75.7567 0.8292 227.2461 156.4876 73.5141 156.4876"></polygon>
+        <polygon id="path-5" points="226.167 74.8945 152.1441 155.6584 0.6546 155.6584 152.1441 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-366.000000, -408.000000)">
+            <g id="Group-96" transform="translate(366.000000, 408.000000)">
+                <g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-95"></g>
+                    <polygon id="Fill-94" fill="#0CDFC9" mask="url(#mask-2)" points="-4.3454 160.6584 230.8875 160.6584 230.8875 -5 -4.3454 -5"></polygon>
+                </g>
+                <g id="Group-99" transform="translate(1.000000, 77.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-98"></g>
+                    <polygon id="Fill-97" fill="#007CEC" mask="url(#mask-4)" points="-4.9326 161.4876 232.2461 161.4876 232.2461 -4.1708 -4.9326 -4.1708"></polygon>
+                </g>
+                <g id="Group-102">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-101"></g>
+                    <polygon id="Fill-100" fill="#4124A9" mask="url(#mask-6)" points="-4.3454 160.6584 231.167 160.6584 231.167 -5 -4.3454 -5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
