@@ -70,7 +70,7 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.2.9",
     "native-ext-loader": "2.3.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nuxt": "2.12.2",
     "prettier": "^2.0.5",
     "sass-loader": "8.0.2",
